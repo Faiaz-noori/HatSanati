@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 100px;
+}
+.kaffe {
+    height: 300px;
+    width: 300px;
+}
+.jenny {
+    height: 300px;
+    width: 300px;
+}
+.kaffe-sanat{
+    height: 300px;
+    width: 300px;
+}
+
+.jenny-sanat{
+    height: 300px;
+    width: 300px;
+}
+.footer  {
+    margin-top: 150px;
+    text-align: right;
+}
